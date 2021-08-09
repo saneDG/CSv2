@@ -1,2 +1,2 @@
-# CSv2
+# algorithms-exercises
 Created with CodeSandbox
